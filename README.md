@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vanyatoumy
-- 👀 I’m interested in PHP, Java, html, javaScript, css, C++, c# and c languages
-- 🌱 I’m currently learning Java and Laravel
+- 👀 I’m interested in PYthon, Jhipster and React Native
+- 🌱 I’m currently learning Python
 - 📫 How to reach me ; email : vanyatoumy2@gmail.com
 
 <!---
